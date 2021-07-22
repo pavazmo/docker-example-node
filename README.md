@@ -4,7 +4,7 @@
 
 First of all build your image
 
-<code>docker build -t <your username>/node-web-app .</code>
+<code>docker build -t docker-example .</code>
 
 Run your image
 
