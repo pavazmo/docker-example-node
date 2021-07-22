@@ -8,9 +8,9 @@ First of all build your image
 
 Run your image
 
-<code>docker run -p localhost:3000 -d pavazmo/node-web-app</code>
+<code>docker run -p 3000:3000 docker-example </code>
 
-Look information about your images running
+Look information about your container running
 
 <code>docker ps</code>
 
