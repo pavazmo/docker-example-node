@@ -6,7 +6,7 @@ First of all build your image
 
 <code>docker build -t docker-example .</code>
 
-Run your image
+Run your container
 
 <code>docker run -p 3000:3000 docker-example </code>
 
